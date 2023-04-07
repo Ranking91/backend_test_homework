@@ -1,0 +1,4 @@
+*.doc
+*.docx
+text.doc
+text.docx
